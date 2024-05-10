@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **A Minecraft RPG Mod**
 
-- 🌱 I’m currently learning **The Minecraft Java liberty**
+- 🌱 I’m currently learning **The Minecraft Java Liberty**
 
 - 🤝 I’m looking for help with **Minecraft Java**
 
